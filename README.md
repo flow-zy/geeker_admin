@@ -17,9 +17,9 @@
 
 ## 二、Git 仓库地址 (欢迎 Star⭐)
 
-- Gitee：https://gitee.com/laramie/Geeker-Admin
+- Gitee：https://gitee.com/overflow_z/geeker_admin.git
 
-- GitHub：https://github.com/HalseySpicy/Geeker-Admin
+- GitHub：https://github.com/flow-zy/geeker_admin.git
 
 ## 三、🔨🔨🔨 项目功能
 
