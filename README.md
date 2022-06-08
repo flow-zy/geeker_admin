@@ -43,9 +43,9 @@
 
 ```text
 # Gitee
-git clone [https://gitee.com/laramie/Geeker-Admin.git](https://gitee.com/overflow_z/geeker_admin.git)
+git clone https://gitee.com/overflow_z/geeker_admin.git
 # GitHub
-git clone [https://github.com/HalseySpicy/Geeker-Admin.git](https://github.com/flow-zy/geeker_admin.git)
+git clone https://github.com/flow-zy/geeker_admin.git
 ```
 
 - **Install：**
