@@ -43,9 +43,9 @@
 
 ```text
 # Gitee
-git clone https://gitee.com/laramie/Geeker-Admin.git
+git clone [https://gitee.com/laramie/Geeker-Admin.git](https://gitee.com/overflow_z/geeker_admin.git)
 # GitHub
-git clone https://github.com/HalseySpicy/Geeker-Admin.git
+git clone [https://github.com/HalseySpicy/Geeker-Admin.git](https://github.com/flow-zy/geeker_admin.git)
 ```
 
 - **Install：**
@@ -195,8 +195,3 @@ Geeker-Admin
 - gin-vue-admin：https://github.com/flipped-aurora/gin-vue-admin
 - vue-vben-admin：https://github.com/vbenjs/vue-vben-admin
 
-## 十、微信交流群
-
-> **😀 微信群超过 200 人了，请加我好友，我拉大家进群。**
-
-![weixina](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220531123001.png)
